@@ -1,3 +1,3 @@
-## Olá 👁
+## Olá, eu sou o Charles! 👋
 
-  Meu nome é Charles. Sou programador e estudante de Ciência de Dados.
+Sou programador e estudante de Ciência de Dados.
