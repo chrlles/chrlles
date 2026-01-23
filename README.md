@@ -7,9 +7,6 @@ Sou programador e estudante de Ciência de Dados, focado em transformar dados br
 - **Visualização:** Matplotlib, Seaborn, Plotly
 - **Data Science:** Regressão Linear, Limpeza de Dados, EDA (Análise Exploratória)
 
-### 📈 No que estou trabalhando?
-- Explorando modelos de previsão para o setor automotivo.
-- Aprimorando técnicas de Data Viz para storytelling.
 
 ---
 📫 [LinkedIn](https://www.linkedin.com/in/charles-souza-b852911b5/) | 🎨 [Behance](https://www.behance.net/charlessouza28)
