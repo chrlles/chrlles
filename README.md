@@ -1,6 +1,6 @@
 ## Olá, eu sou o Charles! 👋🏾
 
-Sou programador e estudante de **Ciência de Dados**. Atualmente, estou aprofundando meus conhecimentos em Machine Learning e Estatística. ,
+Sou programador e estudante de **Ciência de Dados**. Atualmente, estou aprofundando meus conhecimentos em Machine Learning e Estatística. 
 
 📍 Brasília, DF &nbsp;|&nbsp; 🎓 Ciência de Dados — &nbsp;|&nbsp; 🌐 Inglês B2 
 
