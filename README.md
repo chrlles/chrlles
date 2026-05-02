@@ -3,7 +3,7 @@
 Sou programador e estudante de **Ciência de Dados**. Atualmente, estou aprofundando meus conhecimentos em Machine Learning e Estatística.
 
 
-📍 Brasília, DF &nbsp;|&nbsp; 🎓 Ciência de Dados — Estácio (1º Semestre) &nbsp;|&nbsp; 🌐 Inglês B2
+###📍 Brasília, DF &nbsp;|&nbsp; 🎓 Ciência de Dados — Estácio (1º Semestre) &nbsp;|&nbsp; 🌐 Inglês B2
 ---
 ### 🛠️ Habilidades Técnicas
 
