@@ -14,9 +14,6 @@ Sou programador e estudante de **Ciência de Dados**. Atualmente, estou aprofund
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
 
-
-📫 [LinkedIn](https://www.linkedin.com/in/charles-souza-b852911b5/) 
-
 ---
 
 ## 📫 Contato
