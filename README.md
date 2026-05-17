@@ -53,8 +53,3 @@ Tenho domínio em **Python** e **SQL**, aplicando algoritmos de classificação,
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/chrlles)
 [![E-mail](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:charlessouza.cs28@gmail.com)
 
----
-
-<p align="center">
-  🚀 Sempre aprendendo, analisando dados e construindo soluções com dados.
-</p>
