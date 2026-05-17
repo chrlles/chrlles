@@ -8,7 +8,7 @@ Tenho domínio em **Python** e **SQL**, aplicando algoritmos de classificação,
 
 ---
 
-## 🚀 Experiência prática
+## Experiência prática
 
 - 📊 Análise Exploratória de Dados (EDA)
 - 🧹 Limpeza e tratamento de dados
@@ -18,7 +18,7 @@ Tenho domínio em **Python** e **SQL**, aplicando algoritmos de classificação,
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
+## Tecnologias & Ferramentas
 
 ### Linguagens
 
@@ -47,12 +47,10 @@ Tenho domínio em **Python** e **SQL**, aplicando algoritmos de classificação,
 
 ---
 
-## 📫 Contato
+## Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/charles-souza-b852911b5/)
-
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/chrlles)
-
 [![E-mail](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:charlessouza.cs28@gmail.com)
 
 ---
