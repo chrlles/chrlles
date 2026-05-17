@@ -5,7 +5,12 @@ Sou programador e estudante de **Ciência de Dados**. Atualmente, estou aprofund
 📍 Brasília, DF &nbsp;|&nbsp; 🎓 Ciência de Dados 
 
 ---
-### 🛠️ Habilidades Técnicas
+### 🛠️ Tecnologias & Ferramentas
+
+### Linguagens
+<p>
+  <img src="https://skillicons.dev/icons?i=python,mysql" />
+</p>
 
 ### Bibliotecas
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
