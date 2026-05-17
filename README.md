@@ -20,13 +20,13 @@ Tenho domínio em **Python** e **SQL**, aplicando algoritmos de classificação,
 
 ## 🛠️ Tecnologias & Ferramentas
 
-### 💻 Linguagens
+### Linguagens
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,mysql" />
 </p>
 
-### 📚 Bibliotecas
+### Bibliotecas
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
@@ -36,7 +36,7 @@ Tenho domínio em **Python** e **SQL**, aplicando algoritmos de classificação,
 
 ---
 
-## 📈 Áreas de Interesse
+## Áreas de Interesse
 
 - Data Science
 - Machine Learning
